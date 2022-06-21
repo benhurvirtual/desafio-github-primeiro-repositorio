@@ -1,0 +1,18 @@
+Setar usuário
+git config --global user.name "Meu None"
+
+Setar email
+git config --global user.email meuemail@gmail.com
+
+Para começar um projeto que ainda não seja um repositório (ou repo), o Git Init costuma ser o comando mais indicado
+git init
+
+O Git clone é um comando para baixar o código-fonte existente de um repositório remoto (como o Github, por exemplo).
+git clone <https://url-do-link>
+
+comando Git status serve para fornecer algumas informações importantes sobre a branch em que você estiver no momento, 
+incluindo se ela está atualizada em relação à master e quais arquivos foram alterados.
+git status
+
+Link com mais comandos principais:
+https://blog.geekhunter.com.br/comandos-git-mais-utilizados/
